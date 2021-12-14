@@ -1,0 +1,40 @@
+.bottom-left {
+    position: absolute;
+    top: 250px;
+    left: 400px;
+   
+    
+  }
+  .btnf{
+      border-radius: 5px;
+      background-color: aquamarine;
+      width: 80px;
+      height: 50px;
+      color: black;
+
+  }
+
+  .bottom-right {
+    position: absolute;
+    top: 250px;
+    right: 450px;
+   
+    
+  }
+
+  .btns{
+      position
+    border-radius: 5px;
+    background-color: aquamarine;
+    width: 80px;
+    height: 50px;
+    color: black;
+
+}
+button:hover{
+
+        width: 90px;
+        height: 60px;
+        background-color: blueviolet;
+        color: burlywood;
+}
